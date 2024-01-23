@@ -28,7 +28,7 @@
 
 ### Model Summary
 
-![model](Figure/model.png)
+![model](Figure/model.jpg)
 
 
 
